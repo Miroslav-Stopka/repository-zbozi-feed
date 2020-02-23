@@ -6,4 +6,8 @@ class ZboziFeedCronModule {
 
 	}
 
+	private function backupOldFeed() {
+		
+	}
+
 }
