@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- kódování zadejte dle použitého typu ("utf-8", "windows-1250" ...). Doporučené a výchozí je utf-8 -->
+<SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
+    <SHOPITEM>
+        <ITEM_ID>productId</ITEM_ID>
+        <PRODUCTNAME>productName</PRODUCTNAME>
+    </SHOPITEM>
+</SHOP>
