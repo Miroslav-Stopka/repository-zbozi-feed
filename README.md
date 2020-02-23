@@ -1,0 +1,1 @@
+**Zbozi feed - Specification**
